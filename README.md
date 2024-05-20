@@ -1,2 +1,4 @@
-# Supply-chain-managment-system-
+# Supply-chain-managment-system
 Decentralized logistics application uses Ethereum blockchain and Solidity smart contracts for transparent supply chain tracking, with a dynamic frontend in JavaScript/jQuery and a secure PHP/MySQL backend.
+
+ my decentralized logistics application leverages Ethereum blockchain technology to ensure transparent and tamper-proof tracking of product movements through the supply chain. Smart contracts, written in Solidity, automate the recording of product locations at each freight hub. Web3.js facilitates blockchain interaction, while JavaScript and jQuery provide a dynamic frontend for scanning and displaying product information. The backend, built with PHP and MySQL, manages user authentication and data storage. We use Truffle to test smart contracts for reliability before deployment.
